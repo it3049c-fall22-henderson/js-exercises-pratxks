@@ -9,7 +9,13 @@
  *      * must use the `class_of` property in the introduction
  */
 const personObject = {
+  first_name: 'Pratik',
+  last_name: 'Chaudhari',
+  class_of: 2025,
 
+  full_name: function () {
+    return $(this.first_name) + ' ' + $(this.last_name);
+  }
 };
 
 module.exports = {

@@ -14,7 +14,11 @@ const personObject = {
   class_of: 2025,
 
   full_name: function () {
-    return $(this.first_name) + ' ' + $(this.last_name);
+    return this.first_name + ' ' + this.last_name;
+  },
+
+  introduction: function () {
+    return this.full_name() + ' of ' + this.class_of;
   }
 };
 

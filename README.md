@@ -15,9 +15,11 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 
 ## Self-Evaluation: 
 (For this assignment, there was 22 exercises checked by 68 automated checks)
-how many points out of 20 do you deserve on this assignment:
+how many points out of 20 do you deserve on this assignment: I passed all 68 tests, so I believe I deserve full credit for this assignment.
 
 ## Self-Reflection:
 <!-- What did you learn that you found interesting -->
+Practicing Javascript is interesting, as is developing solutions for technological problems. The fizzbuzz method piqued my interest.
 
 ### How long it took you to finish this?
+It took me around 4 hours to finish this assignment
